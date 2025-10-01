@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Job Aggregator & Notifier",
+  "description": "An automated tool to search and collect job postings from multiple sources based on user-defined criteria, and schedule email notifications with the aggregated results.",
+  "requestFramePermissions": []
+}
